@@ -12,7 +12,7 @@
 
 # Azure-Practices-Examples
 
-In this repository,  You will get an Idea about Different Practical Implementation of Azure Services
+In this repository,  You will get an Idea about Different Practical Implementation of Azure Services.
 
 - Capstone Project: 01 - **Company is facing some issues and wishes for you to use Azure cloud expertise to solve them**
 
